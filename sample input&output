@@ -1,0 +1,33 @@
+Enter the number of the students:
+3
+Enter studnet's Name, Rollnumber, Department, Marks, Grade :
+ali
+001
+CSE
+90
+A
+Enter studnet's Name, Rollnumber, Department, Marks, Grade :
+salem
+002
+EC
+80
+B
+Enter studnet's Name, Rollnumber, Department, Marks, Grade :
+khaled
+003
+ME
+60
+C
+
+Student details are
+
+Name    Rollno  Dept    Marks           Grade
+ali     1       CSE     90.000000               A
+salem   2       EC      80.000000               B
+khaled  3       ME      60.000000               C
+
+Enter student Rollnumber:
+2
+
+Name    Rollno  Dept    Marks           Grade
+salem   2       EC      80.000000               B
